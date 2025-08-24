@@ -2,9 +2,12 @@ import java.sql.*;
 import java.util.Scanner;
 
 public class EmployeeDBApp {
-    private static final String URL = "jdbc:mysql://localhost:3306/companydb?useSSL=false&serverTimezone=UTC";
+    //the URL, USER, PASSWORD is for example only 
+    //Create your own database and put your own user and password 
+    
+    private static final String URL = "jdbc:mysql://localhost:3306/com_employ";
     private static final String USER = "root";
-    private static final String PASSWORD = "sahil@12345";
+    private static final String PASSWORD = "Admin@123";
 
 
     private Connection conn;
