@@ -15,15 +15,6 @@ A Java console application that connects to a **MySQL** or **PostgreSQL** databa
 
 ---
 
-## 🛠️ Prerequisites
-- **Java JDK 8+**
-- **MySQL** or **PostgreSQL**
-- **JDBC Driver** for your database:
-  - MySQL: [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/)
-  - PostgreSQL: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
-
----
-
 ## 🗄️ Database Setup
 
 ### MySQL
